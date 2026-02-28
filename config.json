@@ -1,5 +1,5 @@
 {
-    "botToken": "MTQ3NzE5OTkyNjUzNzc0ODU1MQ.GFQF-S.3cXanJxLt8eybqiIfm9YhfGD5afqqqIeg3z52w",
+    "botToken": "$BOT_TOKEN",
     "logs_channel_id": "1477200519440240640",
 
     "prefix": "*",
