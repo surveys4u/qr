@@ -1,0 +1,13 @@
+{
+    "botToken": "MTQ3NzE5OTkyNjUzNzc0ODU1MQ.GFQF-S.3cXanJxLt8eybqiIfm9YhfGD5afqqqIeg3z52w",
+    "logs_channel_id": "1477200519440240640",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": false,
+    "role_name": "ROLE-NAME-HERE",
+
+    "mass_dm": 3,
+    "message": "test"
+}
